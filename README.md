@@ -1,10 +1,10 @@
 # Fonds Farewell
 Project to map American archival vulnerabilities due to climate change.
 ## Researchers
-------
 * Eira Tansey, University of Cincinatti
 * Ben Goldman, Penn State University
 * Nathan Piekielek, Penn State University
+
 ## Description
 Which American archival repositories are most vulnerable to the effects of climate change in the coming decades?
 
@@ -14,9 +14,9 @@ This research should make more concrete (to the extent that climate models might
 
 Demonstrating that we can model the impacts of climate change on a subset of known archival repositories is a significant contribution. Mapping/visualization is a unique way of presenting research in our field. Stimulating further areas of inquiry (including by the authors themselves) is an expected outcome.
 ## Key papers
-------
 * Tansey E. 2016. Archival adaptation to climate change. Sustainability: Science, Practice, & Policy 11(2) Published online Mar 02, 2016. http://sspp.proquest.com/archives/vol11iss2/1509-019.tansey.html 
 * Gordon-Clark, Matthew. “Paradise Lost? Pacific Island Archives Threatened by Climate Change.” Archival Science 12.1 (2012): 51–67. http://link.springer.com/article/10.1007%2Fs10502-011-9144-3
+
 ## Motivation
 American archives must begin preparing for the risks posed by climate change-induced weather disasters (floods, hurricanes, wildfires) that will afflict different geographical regions in the coming decades. And in order to begin planning, we must develop a sharper understanding of the potential risks. 
 ## Data
