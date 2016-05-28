@@ -3,7 +3,7 @@ Project to map American archival vulnerabilities due to climate change.
 ## Researchers
 * Eira Tansey (@tanseyem), University of Cincinatti
 * Ben Goldman (@bmrgoldman), Penn State University
-* Nathan Piekielek (, Penn State University
+* Nathan Piekielek, Penn State University
 
 ## Description
 Which American archival repositories are most vulnerable to the effects of climate change in the coming decades?
