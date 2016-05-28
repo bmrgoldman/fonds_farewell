@@ -22,6 +22,6 @@ American archives must begin preparing for the risks posed by climate change-ind
 ## Data
 We propose to use [OCLC ArchiveGrid’s repository data][1], and [WorldClim version 1 global climate metadata][2]. The OCLC repository data includes addresses, longitude and latitude, but is [known to be incomplete][3]. It’s unknown how **accurate** the data is, but it should be considered that repository location data likely does not account for scenarios like remote storage, nor for factors that might impact certain types of extreme weather vulnerability (basement location vs. 13th floor). The WorldClim data is an aggregation of many different climate models. We will sample from these and within these (based on the different concentration scenarios).
 
-[1]: See: https://github.com/bmrgoldman/fonds_farewell/blob/master/geodata_sorted_data-ArchiveGrid.csv
-[2]: See: http://www.worldclim.org/cmip5_30s
-[3]: See: https://beta.worldcat.org/archivegrid/about/
+[1]: https://github.com/bmrgoldman/fonds_farewell/blob/master/geodata_sorted_data-ArchiveGrid.csv
+[2]: http://www.worldclim.org/cmip5_30s
+[3]: https://beta.worldcat.org/archivegrid/about/
