@@ -1,9 +1,9 @@
 # Fonds Farewell
 Project to map American archival vulnerabilities due to climate change.
 ## Researchers
-* Eira Tansey, University of Cincinatti
-* Ben Goldman, Penn State University
-* Nathan Piekielek, Penn State University
+* Eira Tansey (@tanseyem), University of Cincinatti
+* Ben Goldman (@bmrgoldman), Penn State University
+* Nathan Piekielek (, Penn State University
 
 ## Description
 Which American archival repositories are most vulnerable to the effects of climate change in the coming decades?
@@ -20,4 +20,8 @@ Demonstrating that we can model the impacts of climate change on a subset of kno
 ## Motivation
 American archives must begin preparing for the risks posed by climate change-induced weather disasters (floods, hurricanes, wildfires) that will afflict different geographical regions in the coming decades. And in order to begin planning, we must develop a sharper understanding of the potential risks. 
 ## Data
-We propose to use OCLC ArchiveGrid’s repository data, and WorldClim version 1 global climate metadata. The OCLC repository data includes addresses, longitude and latitude, but is known to be incomplete. It’s unknown how accurate the data is, but it should be considered that repository location data likely does not account for scenarios like remote storage, nor for factors that might impact certain types of extreme weather vulnerability (basement location vs. 13th floor). The WorldClim data is an aggregation of many different climate models. We will sample from these and within these (based on the different concentration scenarios).
+We propose to use [OCLC ArchiveGrid’s repository data][1], and [WorldClim version 1 global climate metadata][2]. The OCLC repository data includes addresses, longitude and latitude, but is [known to be incomplete][3]. It’s unknown how **accurate** the data is, but it should be considered that repository location data likely does not account for scenarios like remote storage, nor for factors that might impact certain types of extreme weather vulnerability (basement location vs. 13th floor). The WorldClim data is an aggregation of many different climate models. We will sample from these and within these (based on the different concentration scenarios).
+
+[1]: See: https://github.com/bmrgoldman/fonds_farewell/blob/master/geodata_sorted_data-ArchiveGrid.csv
+[2]: See: http://www.worldclim.org/cmip5_30s
+[3]: See: https://beta.worldcat.org/archivegrid/about/
